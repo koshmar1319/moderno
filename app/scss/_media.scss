@@ -538,6 +538,15 @@
   .circle__menu{
     left: -20px;
   }
+  .product__item-author .avatar{
+    margin-right: 10px;
+  }
+  .product__item-price{
+    font-size: 17px;
+  }
+  .product__item-title{
+    font-size: 16px;
+  }
 }
 
 @media (min-width: 841px){
